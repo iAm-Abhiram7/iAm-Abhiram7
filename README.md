@@ -20,20 +20,30 @@ AI-driven social media optimizer that analyzes trends in real-time, predicts use
 HealthTech platform for early thyroid disorder detection. Built with a robust machine learning pipeline and a MERN stack application, offering users intelligent insights and chatbot-based guidance for better health awareness.
 
 💻 Technologies I Love Using
-    **Artificial Intelligence**: Hugging Face, LangChain, Transformer Models, Anomaly Detection Pipelines
-    **Frontend Development**: React.js, Flutter, Bootstrap
-    **Backend Development**: Node.js, Express.js, FAST API, Flask, Django
-    **Databases**: MongoDB, Firebase, MySQL
-    **DevOps & Tools**: Docker, Jenkins, AWS, Git, GitHub, VSCode
+
+**Artificial Intelligence**: Hugging Face, LangChain, Transformer Models, Anomaly Detection Pipelines
+    
+**Frontend Development**: React.js, Flutter, Bootstrap
+    
+**Backend Development**: Node.js, Express.js, FAST API, Flask, Django
+    
+**Databases**: MongoDB, Firebase, MySQL
+    
+**DevOps & Tools**: Docker, Jenkins, AWS, Git, GitHub, VSCode
 
 🏆 A Little About My Journey
-    Research Intern at Research Centre Imarat (DRDO): Built real-time threat detection systems
-    Winner of a National-Level Datathon: Pioneered a mental health solution through AI
-    Organized a 24-hour Hackathon at KMIT: Drove record engagement and community impact
-    Led the PR team at Recurse Coding Club: Built a vibrant, growing tech community
+
+- Research Intern at Research Centre Imarat (DRDO): Built real-time threat detection systems
+  
+- Winner of a National-Level Datathon: Pioneered a mental health solution through AI
+
+- Organized a 24-hour Hackathon at KMIT: Drove record engagement and community impact
+  
+- Led the PR team at Recurse Coding Club: Built a vibrant, growing tech community
 
 🎯 My Philosophy
-    Engineering solutions with intelligence, empathy, and an eye for real-world transformation.
+
+   Engineering solutions with intelligence, empathy, and an eye for real-world transformation.
 
 📫 Let's Collaborate
     📧 Email: contact.abhiram7@gmail.com
