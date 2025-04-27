@@ -1,10 +1,14 @@
 👋 Hey there, I'm Abhiram Reddy Bavikadi
 
 🧠 Generative AI Enthusiast | 🛠️ Engineer by Heart | 🚀 Builder of Intelligent Systems
+
 🔭 What I'm Working On
-    Building AI-powered assistive technologies for real-world impact
-    intelligent systems that optimize social media strategies using cutting-edge Gen AI
-    Developing real-time anomaly detection systems for critical security infrastructures
+
+- Building AI-powered assistive technologies for real-world impact 
+
+- Intelligent systems that optimize social media strategies using cutting-edge Gen AI
+
+- Developing real-time anomaly detection systems for critical security infrastructures
 
 🚀 Highlighted Projects :
 
