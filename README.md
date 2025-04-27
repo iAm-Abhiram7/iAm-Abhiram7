@@ -6,22 +6,25 @@
     intelligent systems that optimize social media strategies using cutting-edge Gen AI
     Developing real-time anomaly detection systems for critical security infrastructures
 
-🚀 Highlighted Projects
-[VisionAssist](https://github.com/iAm-Abhiram7/VisualAidForVisuallyImpaired-G36-PS24): 
+🚀 Highlighted Projects :
+
+[**VisionAssist**](https://github.com/iAm-Abhiram7/VisualAidForVisuallyImpaired-G36-PS24): 
+
 Empowering visually impaired users through a Flutter app integrated with Hugging Face visual language models. Converts images and videos into meaningful textual insights, with seamless cloud storage and intuitive interaction.
 
-[SOCaiL](https://github.com/iAm-Abhiram7/SOCaiL):
+[**SOCaiL**](https://github.com/iAm-Abhiram7/SOCaiL):
+
 AI-driven social media optimizer that analyzes trends in real-time, predicts user engagement, and suggests personalized content strategies. Combines LLaMA-based RAG, FAST API, and a scalable React.js frontend for smooth analytics.
 
-ThyroidAware :
+**ThyroidAware** :
 HealthTech platform for early thyroid disorder detection. Built with a robust machine learning pipeline and a MERN stack application, offering users intelligent insights and chatbot-based guidance for better health awareness.
 
 💻 Technologies I Love Using
-    Artificial Intelligence: Hugging Face, LangChain, Transformer Models, Anomaly Detection Pipelines
-    Frontend Development: React.js, Flutter, Bootstrap
-    Backend Development: Node.js, Express.js, FAST API, Flask, Django
-    Databases: MongoDB, Firebase, MySQL
-    DevOps & Tools: Docker, Jenkins, AWS, Git, GitHub, VSCode
+    **Artificial Intelligence**: Hugging Face, LangChain, Transformer Models, Anomaly Detection Pipelines
+    **Frontend Development**: React.js, Flutter, Bootstrap
+    **Backend Development**: Node.js, Express.js, FAST API, Flask, Django
+    **Databases**: MongoDB, Firebase, MySQL
+    **DevOps & Tools**: Docker, Jenkins, AWS, Git, GitHub, VSCode
 
 🏆 A Little About My Journey
     Research Intern at Research Centre Imarat (DRDO): Built real-time threat detection systems
